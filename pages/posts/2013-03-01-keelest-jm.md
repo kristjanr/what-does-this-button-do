@@ -11,7 +11,7 @@ Veebis leidub erinevaid keeleõppe metoodika raamatuid, mis annavad hüva nõu, 
 
 Pakkuge [meme](http://en.wikipedia.org/wiki/Internet_meme#Description)sid järgnevale: “When you have studied a completely foreign language for only some weeks and realize that you actually understand what they are saying in a real life situation.” Selline meeldiv kogemus oli mul juba portugali keelega Frankfurdis Rio lennu värava juures oodates. Võib-olla see?
 
-[![epic-win](images/epicwin_thumb.jpg "epic-win")](http://kristjanroosild.files.wordpress.com/2013/03/epicwin.jpg)
+[![epic-win](/images/epicwin_thumb.jpg "epic-win")](/images/epicwin.jpg)
 
 PS. Nädal on minu siia saabumisest möödas. Ülalolev pilt väljendab tegelikult päris täpselt ka minu hetke tundeid senise kohta – elukoht, töö, inimesed…
 
