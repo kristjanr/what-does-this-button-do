@@ -1,5 +1,5 @@
 ---
-title: "&Uuml;histransport"
+title: "Ühistransport"
 date: "2013-03-11"
 categories: 
   - "rio"

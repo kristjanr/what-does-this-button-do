@@ -1,5 +1,5 @@
 ---
-title: "ööklubidest. L&uuml;hidalt."
+title: "ööklubidest. Lühidalt."
 date: "2013-04-03"
 categories: 
   - "elu"
