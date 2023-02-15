@@ -8,4 +8,4 @@ categories:
 
 juba ehitavad maja
 
-[![IMG_3310](images/img_3310.jpg "IMG_3310")](https://picasaweb.google.com/lh/photo/p2gfGIK-dFOUkMT4nav8ftMTjNZETYmyPJy0liipFm0?feat=directlink)
+[![IMG_3310](/images/img_3310.jpg "IMG_3310")](https://picasaweb.google.com/lh/photo/p2gfGIK-dFOUkMT4nav8ftMTjNZETYmyPJy0liipFm0?feat=directlink)

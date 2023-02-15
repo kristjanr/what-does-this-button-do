@@ -13,4 +13,4 @@ Ookean on poole tunni kaugusel - selleks peab olenevalt soovist, kuhu tahta väl
 
 See pilt on tehtud mu arvutilaua tagant.
 
-![Pilt on tehtud kohast, kus istun arvuti taga. Selline avatud veranda. Päris ilus vaade.](images/dscn3192.jpg "Pilt on tehtud kohast, kus istun arvuti taga. Selline avatud veranda. Päris ilus vaade.")
+![Pilt on tehtud kohast, kus istun arvuti taga. Selline avatud veranda. Päris ilus vaade.](/images/dscn3192.jpg "Pilt on tehtud kohast, kus istun arvuti taga. Selline avatud veranda. Päris ilus vaade.")

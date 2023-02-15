@@ -13,4 +13,4 @@ Põhjus, miks paljud cariocad on väga vormis ja hoolitsevad oma keha eest on il
 
 Olles sihtkohta jõudes jumalale tänulik, et seekord ellu jäin, jätavad minuga soojalt hüvasti bussi erepunaselt kiirgavad pidurid ja meeli värskendav käigukasti õli kärsahais.
 
-[!['inside the bus' photo (c) 2010, juliana swenson - license: http://creativecommons.org/licenses/by/2.0/](images/Flickr-5087400639.jpg)](http://www.wylio.com/credits/flickr/5087400639 "license: http://creativecommons.org/licenses/by/2.0/ - click to view more info about 'inside the bus' or find free 'bus rio de janeiro' pictures via Wylio")
+[!['inside the bus' photo (c) 2010, juliana swenson - license: http://creativecommons.org/licenses/by/2.0/](/images/Flickr-5087400639.jpg)](http://www.wylio.com/credits/flickr/5087400639 "license: http://creativecommons.org/licenses/by/2.0/ - click to view more info about 'inside the bus' or find free 'bus rio de janeiro' pictures via Wylio")
