@@ -14,7 +14,7 @@ coverImage: "img_5389.jpeg"
 
 Eile peale hommiksööki, mis lõppes veidi enne keskpäeva läksime oma öömajja, pakkisime kotid ja läksime kööki, kus tegime endale espressod. Nautisime neid suurel rõdul, kust avanes vaade ümberringi paiknevatele mägedele ning ikka sellele kirikule ja platsile.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5454.jpeg?w=768)](https://kristjanroosild.files.wordpress.com/2022/09/img_5454.jpeg)
+[![](/images/img_5454.jpeg?w=768)](/images/img_5454.jpeg)
 
 Ülemise korruse köögist pääses rõdule, kus oli veel parem vaade
 
@@ -22,21 +22,21 @@ https://youtu.be/poh\_jbQoBRY
 
 Tegime kiire tiiru peale sellele linnakesele. Sattusime huvitavatele tänavatele ja ka kohalikku surnuaeda. Kiirelt põikasime läbi ka eilsest õhtusöögikohast, et näha milline vaade sealt nõlva pealt avaneb.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5460.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5460.jpeg)
+[![](/images/img_5460.jpeg?w=1024)](/images/img_5460.jpeg)
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5463.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5463.jpeg)
+[![](/images/img_5463.jpeg?w=1024)](/images/img_5463.jpeg)
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5478.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5478.jpeg)
+[![](/images/img_5478.jpeg?w=1024)](/images/img_5478.jpeg)
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5482.jpeg?w=768)](https://kristjanroosild.files.wordpress.com/2022/09/img_5482.jpeg)
+[![](/images/img_5482.jpeg?w=768)](/images/img_5482.jpeg)
 
 Surnuaed
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5488.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5488.jpeg)
+[![](/images/img_5488.jpeg?w=1024)](/images/img_5488.jpeg)
 
 Surnuaed. Meenutab Barcelona surnuaeda. Katoliiklaste värk ilmselt.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5501.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5501.jpeg)
+[![](/images/img_5501.jpeg?w=1024)](/images/img_5501.jpeg)
 
 Restoran Miramare. Siin sõime eile õhtul pitsat, pastat ja kuulasime Anne Veskit.
 
@@ -62,11 +62,11 @@ https://youtu.be/UNtIBHuUaps
 
 Rongis kolades jõudsin päris selle esiotsa. Selgus et olin vedurijuhi ruumi jõudnud. Täitsa põnev oli seal. Üks vedurijuht istus oma pingil ja mind ei näinud. Teist ei olnud. Aga juba ta tuligi. Seekord ei aidanud paraku ei _miscusid_ ega _bongiornod_ ja nii mind sealt ruumist välja visatigi.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5522.jpeg?w=768)](https://kristjanroosild.files.wordpress.com/2022/09/img_5522.jpeg)
+[![](/images/img_5522.jpeg?w=768)](/images/img_5522.jpeg)
 
 Mitu vedurit oli kokku ühendatud. See on üks vedurijuhikabiin, mida hetkel ei kasutata.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5529.jpeg?w=768)](https://kristjanroosild.files.wordpress.com/2022/09/img_5529.jpeg)
+[![](/images/img_5529.jpeg?w=768)](/images/img_5529.jpeg)
 
 Veel üks - teisel poolel.
 
@@ -98,21 +98,21 @@ Hommikusöök algas kohvi ja magusate saiakestega. Lisaks saime ka banaani ja vi
 
 Meie elamine on väga mõnusas kohas - umbes kakssada meetrit rannast. Ümberringi viinamarja istandus. Meile avaneb suurepärane vaade merele otse klaasustest! Soovi korral saame pikutada kahe puu vahele kinnitatud rippvoodis või päikesetoolis. Külalistele kasutamiseks on ka grillinurk kõige vajalikuga.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5551.jpeg?w=768)](https://kristjanroosild.files.wordpress.com/2022/09/img_5551.jpeg)
+[![](/images/img_5551.jpeg?w=768)](/images/img_5551.jpeg)
 
 Merevaade meie elamise klaasuksest. Tuule käes on lendlemas näha triibulist värvilist rippvoodit. Taamal ka paar lohe.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5552.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5552.jpeg)
+[![](/images/img_5552.jpeg?w=1024)](/images/img_5552.jpeg)
 
 Õuepealne
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5553.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5553.jpeg)
+[![](/images/img_5553.jpeg?w=1024)](/images/img_5553.jpeg)
 
 Siinsamas kõrval käib majaehitus. Ehitusmehed on hommikul enne kella kaheksat juba objektil. Need põõsad on viinamarjad. Magusaisu saab rahuldatud!
 
 Peale kella 11 tõusis tuul ja algasid esimesed treeningud. Käisime rannas, vaatasime kuidas lohesurfarid sõidavad ja õpivad. Täitsa kasulik on teiste jälgimine. Peab vaid kannatlikkust olema ja ühe konkreetse, pigem algaja välja valima, keda jälgida. Kitelabi alal käisime ka - jõudsime sinna umbes 2,5h enne meie treeningu algust. Meid tervitas Aga, kelle tegelik nimi on Agnes. Ta on poolakas, nagu paljud selle lohesurfi kooli instruktoridki.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5554.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5554.jpeg)
+[![](/images/img_5554.jpeg?w=1024)](/images/img_5554.jpeg)
 
 https://youtu.be/iC-B3XdejmE
 
@@ -122,7 +122,7 @@ Meid õpetas Janek. Kah poolakas. Lahe ja rahulik tüüp. Hästi õpetab. Tundub
 
 Meie surfikool on kõige lahedam, sest seal on tervelt kolm resident-koera! Aukartustäratava kauni kuid ohtliku välimusega sõbralik [Tsehhoslovakkia hunt-koer](https://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog)a nimi on Luna. Must-valge karjakoer kellele meeldib jooksmist ja tagaajamist mängida on Erva ([Erva-mate](https://pt.wikipedia.org/wiki/Erva-mate) järgi). Liivakarva on Patatina, kes armastab mugavust ja teeb vahel pättust.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5586.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5586.jpeg)
+[![](/images/img_5586.jpeg?w=1024)](/images/img_5586.jpeg)
 
 Tsehhoslovakkia hunt-koer Luna ja Bulgaaria inimrebane Lucy :P
 
@@ -130,7 +130,7 @@ https://www.youtube.com/watch?v=y26OJMNgqDQ&feature=youtu.be
 
 Ervale meeldib pudel hambus eest ära joosta aga ka ise taga ajada. Tõeline karjakoer!
 
-[![](https://kristjanroosild.files.wordpress.com/2022/09/img_5575.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/09/img_5575.jpeg)
+[![](/images/img_5575.jpeg?w=1024)](/images/img_5575.jpeg)
 
 Patatina
 

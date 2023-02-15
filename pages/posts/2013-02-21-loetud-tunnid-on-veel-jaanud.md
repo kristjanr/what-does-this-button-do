@@ -13,6 +13,6 @@ Käisime hetk tagasi Priiduga vanalinnas "jalutamas" - Lexusega! ;) Laia lund sa
 
 Pedro on minu AIESECI buddy Rios. Ta ütles, et hakkan [selle saare](http://goo.gl/maps/Jsyvy) peal elama. Marsruut kodu-töö-rand on meeldivalt lühike - alla kahe km:
 
- [![Image](http://kristjanroosild.files.wordpress.com/2013/02/rio1.jpg?w=452)](http://kristjanroosild.files.wordpress.com/2013/02/rio1.jpg)
+ [![Image](/images/rio1.jpg?w=452)](/images/rio1.jpg)
 
 Järgmine postitus tuleb pärast esimest Atlandi ookeani suplust!

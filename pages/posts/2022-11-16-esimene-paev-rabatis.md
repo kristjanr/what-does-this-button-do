@@ -6,29 +6,29 @@ coverImage: "img_7066.jpeg"
 
 Niisiis, 15. novembril, teisipäeva õhtul jõudsime Tangierist Rabati. Seal elasime ühes Airbnb korteris, mis asus üsna keskses kohas, kenas Rabati linnaosas nimega Agdal. Otse teisel pool tänavat oli restoran aga meie seal ei käinud.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/12/img_1588.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/12/img_1588.jpeg)
+[![](/images/img_1588.jpeg?w=1024)](/images/img_1588.jpeg)
 
 Ruumikas elutuba. Sealt klaasuksest pääseb siseõue. Kivipõrand - mingi marmori imitatsioon?
 
-[![](https://kristjanroosild.files.wordpress.com/2022/12/img_1606.jpeg?w=768)](https://kristjanroosild.files.wordpress.com/2022/12/img_1606.jpeg)
+[![](/images/img_1606.jpeg?w=768)](/images/img_1606.jpeg)
 
 Siseõu
 
 Samal õhtul jalutasime kohe samal õhtul ühte ostukeskusse ja ostsime sealsest toidupoest kõik vajaliku et ise omale süüa tea. Milline valik seal poes oli! Need värvid ja need hinnad!
 
-[![](https://kristjanroosild.files.wordpress.com/2022/12/img_7049.jpeg?w=768)](https://kristjanroosild.files.wordpress.com/2022/12/img_7049.jpeg)
+[![](/images/img_7049.jpeg?w=768)](/images/img_7049.jpeg)
 
 Maroko enda granaatõun. Kilohind 7 dirhamit e umbes 70 eurosenti!!!
 
 Kolmapäeva esimese poole võtsime rahulikult aga õhtul saime Bouyaga kokku tema linnaosas Ryadis. Ta tegi meile seal tuuri, näitas millises majas elab ja kus käis koolis.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/12/img_1592.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/12/img_1592.jpeg)
+[![](/images/img_1592.jpeg?w=1024)](/images/img_1592.jpeg)
 
 Kes seal elab?!
 
 Istusime kohalikus söögikohas, kus teenindatakse ja süüakse kiirelt. Niisama istuma ei jääda. See oli mingi maitsev kohalik soe lame sai, mille vahel oli pandud mett ja midagi juustu laadset. Väga maitsev!
 
-[![](https://kristjanroosild.files.wordpress.com/2022/12/img_1598.jpeg?w=768)](https://kristjanroosild.files.wordpress.com/2022/12/img_1598.jpeg)
+[![](/images/img_1598.jpeg?w=768)](/images/img_1598.jpeg)
 
 Nii valmib see lame sai.
 
@@ -40,12 +40,12 @@ Pärast trenni olin higist läbimärg. Kuna Mr B. oli ajanud mingit häma selles
 
 Pärast trenni läksime B ja tema sõbraga restoranisse sööma. Sinna tulid veel kaks nende sõpra. Toit oli maitsev ja seltskond mõnus.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/12/img_1602.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/12/img_1602.jpeg)
+[![](/images/img_1602.jpeg?w=1024)](/images/img_1602.jpeg)
 
 Laual on erinevat sorti kastmeid ja erinevat sorti grill liha.
 
-[![](https://kristjanroosild.files.wordpress.com/2022/12/img_1603.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/12/img_1603.jpeg)
+[![](/images/img_1603.jpeg?w=1024)](/images/img_1603.jpeg)
 
 Kelner trikitab
 
-[![](https://kristjanroosild.files.wordpress.com/2022/12/img_7066.jpeg?w=1024)](https://kristjanroosild.files.wordpress.com/2022/12/img_7066.jpeg)
+[![](/images/img_7066.jpeg?w=1024)](/images/img_7066.jpeg)
