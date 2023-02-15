@@ -1,5 +1,5 @@
 ---
-title: "J&otilde;ulumeeleolu 40 kraadises soojas"
+title: "Jõulumeeleolu 40 kraadises soojas"
 date: "2013-12-07"
 categories: 
   - "brasiilia"

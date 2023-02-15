@@ -1,5 +1,5 @@
 ---
-title: "A&ccedil;ai on nii maitsev!"
+title: "Açai on nii maitsev!"
 date: "2013-02-23"
 categories: 
   - "rio"

@@ -1,5 +1,5 @@
 ---
-title: "Ja j&auml;rgmisel p&auml;eval"
+title: "Ja järgmisel päeval"
 date: "2014-01-25"
 categories: 
   - "fauna"

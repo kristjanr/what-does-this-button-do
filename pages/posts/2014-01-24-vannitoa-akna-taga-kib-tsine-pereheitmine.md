@@ -1,5 +1,5 @@
 ---
-title: "Vannitoa akna taga k&auml;ib t&otilde;sine pereheitmine"
+title: "Vannitoa akna taga käib tõsine pereheitmine"
 date: "2014-01-24"
 categories: 
   - "fauna"

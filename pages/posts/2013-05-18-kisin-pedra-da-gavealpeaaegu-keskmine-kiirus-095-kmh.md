@@ -1,5 +1,5 @@
 ---
-title: "K&auml;isin Pedra da Gaveal&hellip;peaaegu. Keskmine kiirus 0,95 km/h"
+title: "Käisin Pedra da Gaveal…peaaegu. Keskmine kiirus 0,95 km/h"
 date: "2013-05-18"
 categories: 
   - "rio"
