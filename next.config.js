@@ -1,2 +1,14 @@
 const withNextra = require('nextra')('nextra-theme-blog', './theme.config.js')
-module.exports = withNextra()
+
+const withMDX = require('@next/mdx')({
+    extension: /\.mdx?$/,
+    options: {
+        remarkPlugins: [],
+        rehypePlugins: [],
+        components: {
+            youtube: './components/YouTube',
+        },
+    },
+})
+
+module.exports = withNextra(withMDX())
