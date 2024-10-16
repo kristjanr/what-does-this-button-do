@@ -1,5 +1,5 @@
 ---
-title: "Porto, Portugal / Tere jälle!"
+title: "Kirjutan jälle! Porto, Portugal"
 date: "2024-10-10"
 ---
 
@@ -41,7 +41,7 @@ Eile 9. oktoober oli pikk mõnus produktiivne väsitav. Hommikul ja õhtul käis
 
 Käisin jooksmas kahel korral: 5 km pärast lõunat, pärast pikka uinakut, mil kõik kolmekesi magasime ja 10 km öösel. Vasak põlv tuletab end jälle meelde - homme teen kükke ja masseerin, venitan. See 10 km jooks oli tegelikult jooks-kõnd. Viimased neli kilomeetrit kõndisin jooksmise asemel - et tuleks parem uni ja tõtt-öelda ega ei viitsinud ka enam joosta, olin väsinud. Astusin toidupoest läbi ja võtsin hommikusöögi tegemiseks kraami, kuulasin Vitalii Map for Engineers taskuhäälingut. 
 
-[![](/images/IMG_0051.jpg?w=1024)](/images/IMG_0051.jpg)
+[![](https://ik.imagekit.io/p62hs5w4p/reisiblogi/IMG_0051.jpg?updatedAt=1729110379512)](https://ik.imagekit.io/p62hs5w4p/reisiblogi/IMG_0051.jpg?updatedAt=1729110379512)
 
 Meie öömaja Portos, Lapa linnaosas kaheks ööks.
 

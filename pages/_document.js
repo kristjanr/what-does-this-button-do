@@ -2,9 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Roosild',
+    title: 'What Does This Button Do?',
     description: 'Kristjan Roosilla reisiblogi',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://ik.imagekit.io/p62hs5w4p/reisiblogi/DSC_1583.JPG?updatedAt=1729110814467'
   }
 
   return (
