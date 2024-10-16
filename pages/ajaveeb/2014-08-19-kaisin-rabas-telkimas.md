@@ -13,7 +13,7 @@ Mõeldud-tehtud! Kaks päeva tagasi, pühapäeval, pakkisin kile, koormakatte, t
 
 Öösel nähtud tähtedest ja kuust fotosid ei teinud aga kõik muu on siin videos ja fotodel.
 
- **[Fotoalbum](https://picasaweb.google.com/105755497054125787170/RabasTelkimasBlogisse?noredirect=1)**
+ **[Fotoalbum](https://photos.app.goo.gl/h9vDWXpwaaQdSQ5y9)**
 
  
 
