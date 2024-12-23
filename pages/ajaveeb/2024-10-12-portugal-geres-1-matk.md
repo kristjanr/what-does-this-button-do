@@ -1,5 +1,5 @@
 ---
-title: Trilho dos Currais e karjaaediku rada."
+title: Trilho dos Currais - karjaaedikute matkarada.
 date: "2024-10-12"
 ---
 
