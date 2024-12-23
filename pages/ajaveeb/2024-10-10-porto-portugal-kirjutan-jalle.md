@@ -29,16 +29,16 @@ Eilne, 9. oktoober oli pikk mõnus produktiivne väsitav. Hommikul ja õhtul kä
 
 Käisin jooksmas kahel korral: 5 km pärast lõunat, pärast pikka uinakut, mil kõik kolmekesi magasime ja 10 km öösel. Vasak põlv tuletab end jälle meelde - homme teen kükke ja masseerin, venitan. See 10 km jooks oli tegelikult jooks-kõnd. Viimased neli kilomeetrit kõndisin jooksmise asemel - et tuleks parem uni ja tõtt-öelda ega ei viitsinud ka enam joosta, olin väsinud. Astusin toidupoest läbi ja võtsin hommikusöögi tegemiseks kraami, kuulasin Vitalii Map for Engineers taskuhäälingut. 
 
-![Meie öömaja Portos, Lapa linnaosas kaheks ööks.](https://ik.imagekit.io/p62hs5w4p/reisiblogi/IMG_0051.jpg?updatedAt=1729110379512)
-Meie öömaja Portos, Lapa linnaosas kaheks ööks. Nii tore, et Lucy selle sittuva koera ka fotole on saanud. Arhitektuurihuvilisele - selle kahhelkivi all, eenduva osa sees on riidekapid. Kapi uksed on seestpoolt aknaga tasa - Eestis on külma tõttu selline ehitamine võimatu!
+![Meie öömaja Portos, Lapa linnaosas kaheks ööks.](https://ik.imagekit.io/p62hs5w4p/reisiblogi/Portugal/IMG_0051.jpg?updatedAt=1734986287005)
+Meie öömaja Portos, Lapa linnaosas kaheks ööks. Nii tore, et Lucy selle sittuva koera ka fotole on saanud. Nii täpselt tabas kukkuvat junni! Arhitektuurihuvilisele - selle kahhelkivi all, eenduva osa sees on riidekapid. Kapi uksed on seestpoolt aknaga tasa - Eestis on külma tõttu selline ehitamine võimatu!
 
-![Pärastlõunane jooks üle Luiz I silla - kohustuslik selfie.](https://ik.imagekit.io/p62hs5w4p/reisiblogi/IMG_0076.jpg?updatedAt=1729110093872)
+![Pärastlõunane jooks üle Luiz I silla - kohustuslik selfie.](https://ik.imagekit.io/p62hs5w4p/reisiblogi/Portugal/IMG_0076.jpg?updatedAt=1734986292652)
 Pärastlõunane jooks üle Luiz I silla - kohustuslik selfie.
 
-![Teeme kunsti - ema lapsega päikeseloojangut nautimas.](https://ik.imagekit.io/p62hs5w4p/reisiblogi/IMG_0092.jpg?updatedAt=1729110099237)
+![Teeme kunsti - ema lapsega päikeseloojangut nautimas.](https://ik.imagekit.io/p62hs5w4p/reisiblogi/Portugal/IMG_0092.jpg?updatedAt=1734986282383)
 Teeme kunsti - ema lapsega päikeseloojangut nautimas.
 
-![Õhtul jooksmas - kindral Humberto Delgado platsil. Taustal Almeida Garretti monument ja Porto linnahall.](https://ik.imagekit.io/p62hs5w4p/reisiblogi/IMG_0109.jpg?updatedAt=1729110094337)
+![Õhtul jooksmas - kindral Humberto Delgado platsil. Taustal Almeida Garretti monument ja Porto linnahall.](https://ik.imagekit.io/p62hs5w4p/reisiblogi/Portugal/IMG_0109.jpg?updatedAt=1734986289866)
 Õhtul jooksmas - kindral Humberto Delgado platsil. Taustal Almeida Garretti monument ja Porto linnahall.
 
 ### Pikast pausist
