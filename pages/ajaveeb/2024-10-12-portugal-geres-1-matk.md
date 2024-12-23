@@ -73,3 +73,5 @@ Jõudsime õnnelikult meie külakesse tagasi palju lähemal meie öömajale, kui
 ### Kaart
 7h, 14km ja 700 tõusumeetrit
 
+https://facilmap.org/gCJMx6gYHn2k?search=false#15/41.7257/-8.1512/Topo-Rlie
+
