@@ -69,3 +69,41 @@ Kuid hiljem tuli seegi. Õnneks oli loodus jällegi piisavalt kaunis ja kuigi n�
 ![Suur kalli!](https://ik.imagekit.io/p62hs5w4p/reisiblogi/Portugal/trilho-dos-currais-matk/IMG_0278.jpeg?updatedAt=1734988455455)
 
 Jõudsime õnnelikult meie külakesse tagasi palju lähemal meie öömajale, kui matka alguspunkt. Lucy võttis Kassu selga ja läks koju, mina jalutasin auto järele. Kordaläinud päev!
+
+### Kaart
+7h, 14km ja 700 tõusumeetrit
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet-gpx/gpx.min.js"></script>
+  <style>
+    #map {
+      width: 100%;
+      height: 500px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script>
+    var map = L.map('map').setView([38.889248, -77.050636], 13);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+    }).addTo(map);
+    var gpx = '.public/gpx/PR3_Trilho_dos_Currais.gpx';
+    new L.GPX(gpx, {
+      async: true,
+      marker_options: {
+        startIconUrl: 'https://leafletjs.com/examples/custom-icons/leaf-green.png',
+        endIconUrl: 'https://leafletjs.com/examples/custom-icons/leaf-red.png',
+        shadowUrl: 'https://leafletjs.com/examples/custom-icons/leaf-shadow.png'
+      }
+    }).on('loaded', function(e) {
+      map.fitBounds(e.target.getBounds());
+    }).addTo(map);
+  </script>
+</body>
+</html>
