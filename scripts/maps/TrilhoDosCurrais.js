@@ -26,4 +26,4 @@ const LeafletMap = () => {
   return <div id="map" style={{ width: '100%', height: '500px' }} />;
 };
 
-export default LeafletMap;
+export default TrilhoDosCurrais;
