@@ -1,5 +1,5 @@
 ---
-title: Trilho dos Currais - karjaaedikute matkarada.
+title: "Trilho dos Currais - karjaaedikute matkarada."
 date: "2024-10-12"
 ---
 
@@ -22,7 +22,7 @@ Laps ärkas seal mürarikkal tänaval üles ja see meile tegelikult sobiski. Pan
 
 Mägedes matkates on üles minna mõnusam, kui alla tulla. Noorena, kahekümnendates oli tegelikult ka allaminek mõnus. 2014. aastal Rios elades Pedra da Gavea kaljult tagasi allamäge suisa jooksin, kriips kõrvuni. Tee sinna on tõesti järsk: ca 2 km ja 700 tõusumeetrit e keskmine tõus 32%. Hiljem Gruusia matkaks ostsin juba matkakepid, et laskumistel oma põlvi säästa ja osa raskust kätele jaotada. Tenerifelgi valisime matkaraja läbimiseks justnimelt tõusva suuna - algus rannikul, lõpp kõrgel Anaga metsas . Ei saanud aru neist inimestest, kes meile seal matkarajal allamäge kõndides vastu tulid. Ei saa aru ka neist, kes sõidavad mäetõstukiga tippu, et siis allamäge matkata. Milleks leppida vähema trenniga ja riskida põlvevigastuse või libastumisega?
 
-Tagasi karjaaediku rajal kadus hirm allamineku ees, sest loodus oli nõnda kaunis. Lucy väga nautis seda lopsakat loodust ja metsa, mille keskel rändasime. Mina tassisin Kassut seljas kandekotis ja Lucy muudkui pildistas ja filmis. Mulle selline korraldus täitsa sobib - jube hea, kui seiklusest keegi mälestuseks fotosid võtab. Ise olen saan olla hetkes.
+Meil kadus hirm eesootava allamineku ees, sest loodus oli nõnda kaunis. Lucy väga nautis seda lopsakat loodust ja metsa, mille keskel rändasime. Mina tassisin Kassut seljas kandekotis ja Lucy muudkui pildistas ja filmis. Mulle selline korraldus täitsa sobib - jube hea, kui seiklusest keegi mälestuseks fotosid võtab. Ise saan olla hetkes.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIssNv5QFX0?si=DWd3d8LuMmbT7UBN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -70,8 +70,9 @@ Kuid hiljem tuli seegi. Õnneks oli loodus jällegi piisavalt kaunis ja kuigi n�
 
 Jõudsime õnnelikult meie külakesse tagasi palju lähemal meie öömajale, kui matka alguspunkt. Lucy võttis Kassu selga ja läks koju, mina jalutasin auto järele. Kordaläinud päev!
 
-### Kaart
-7h, 14km ja 700 tõusumeetrit
+### Läbitud teekond kaardil
 
-https://facilmap.org/gCJMx6gYHn2k?search=false#15/41.7257/-8.1512/Topo-Rlie
+https://facilmap.org/eCGdxgv3rKmk?toolbox=false&search=false#15/41.7257/-8.1512/TrTo/l89537
+
+Meie matk arvudes: 7h, 14km ja 700 tõusumeetrit
 
