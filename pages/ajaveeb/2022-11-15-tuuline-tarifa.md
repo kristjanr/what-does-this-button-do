@@ -10,7 +10,7 @@ Sellele eelneval õhtul külastasime kogu seltskonnaga Vejeri linnakest. Käisim
 
 [![](/images/img_6880.jpeg?w=1024)](/images/img_6880.jpeg)
 
-Vejer. Lucy omas elemendis - talle väga meeldib see rohelus linnakeskkonnas.
+Vejer. L. omas elemendis - talle väga meeldib see rohelus linnakeskkonnas.
 
 [![](/images/img_6882.jpeg?w=768)](/images/img_6882.jpeg)
 
@@ -58,7 +58,7 @@ Tarifa vanalinna e Medina koerad.
 
 Pärast toidupoes käiku valmistasime lõuna ajal omale väga maitsva hommikusöögi. See oli meie esimene katsetus Cheveyo kokaraamatu järgi midagi teha. Ütleme nii, et õnnestus! :) 
 
-Pärast läksime ühte _coworking space_\-i (e.k. vabakontor) , millel oli kaunis vaade katuselt. Taamal paistab juba Aafrika mägismaa! Seal Lucy tegeles veidi töö asjadega ja mina hakkasin Meelis Kulli Andmeteaduse Meetodite ainet kordama ja meelde tuletama. Ühel korralikul andmeteadlasel peavad baasteadmised ikka korralikult käpas olema!
+Pärast läksime ühte _coworking space_\-i (e.k. vabakontor) , millel oli kaunis vaade katuselt. Taamal paistab juba Aafrika mägismaa! Seal L. tegeles veidi töö asjadega ja mina hakkasin Meelis Kulli Andmeteaduse Meetodite ainet kordama ja meelde tuletama. Ühel korralikul andmeteadlasel peavad baasteadmised ikka korralikult käpas olema!
 
 [![](/images/img_1470.jpg?w=1024)](/images/img_1470.jpg)
 

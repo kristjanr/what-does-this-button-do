@@ -8,7 +8,7 @@ coverImage: "img_0334.jpeg"
 
 See on neljas ja viimane postitus meie Sitsiilia reisist.
 
-Praegu kui ma seda kirjutan, oleme Rooma lennujaamas ja järgmise lennu värava teadasaamiseni on kaks tundi aega. Leidsime siin mugava vaikse ja väheste inimestega koha, mille nimeks on Work Area. Lucy saab mugavalt tugitoolis istuda ja inimesi oma vihikusse visandada, mina saan samas kõrval kõrge laua taga arvutiga tööd teha.
+Praegu kui ma seda kirjutan, oleme Rooma lennujaamas ja järgmise lennu värava teadasaamiseni on kaks tundi aega. Leidsime siin mugava vaikse ja väheste inimestega koha, mille nimeks on Work Area. L. saab mugavalt tugitoolis istuda ja inimesi oma vihikusse visandada, mina saan samas kõrval kõrge laua taga arvutiga tööd teha.
 
 Palermo lennujaamas lennukile minekut oodates lugesin ühte edasi.org-i artiklit: Ilmar Raagi vestlus Martin Heremiga. Lennukis kuulasin Lex Friedmani taskuhäälingut Tim Urbaniga (https://waitbutwhy.com autor).
 
@@ -26,11 +26,11 @@ Teel nendesse kohtadesse oli meil seiklus autoga. Olime eelnevalt juba isegi mä
 
 Kompressoriga bensukat me ei leidnud, seega helistasime Noleggiare nimelise autorendi firma abitelefonile. Ühel klienditeeninduse telefonil vastati Itaalia keeles, öeldi _Sorri_ kui saadi aru, et soovin inglise keeles vestelda ning pandi ära. Sinna tagasihelistamine vilja ei kandnud. Lõpuks leidsin teeabi numbri. Seal suheldi meiega natukene inglise keeles aga mitte palju. Põhiline sõnum neilt oli see, et nad helistavad meile 20 minuti pärast tagasi. Seda kõne ei tulnud kunagi.
 
-Lõpuks otsustasime, et Lucy läheb lähimasse remonditöökotta abi küsima. Saime abi kiirelt ja efektiivselt.
+Lõpuks otsustasime, et L. läheb lähimasse remonditöökotta abi küsima. Saime abi kiirelt ja efektiivselt.
 
 [![](/images/img_0340.jpeg?w=1024)](/images/img_0340.jpeg)
 
-Nobe remondimees kelle Lucy meid aitama sai.  
+Nobe remondimees kelle L. meid aitama sai.  
 Kaunis blond põhjamaa neiu tuleb sellistes olukordades kasuks!
 
 Rehvid pumbatud, asusime taas teele. Sõitsime mööda meloni põldudest! Loomulikult - raksu! Need on magusaimad melonid, mida olen söönud!
@@ -88,7 +88,7 @@ Päikeseloojang Cretto di Burril
 
 Õhtul sõitsime läbi ka Gibellina Nuova linnast aga siis oli juba pime ja seal peatuma ei hakanud.
 
-Tagasiteel sattusime ühte rikkaliku valikuga pisemasse poodi, kus olid sõbralikud töötajad. Poiss, kes meile puubilju kotti pakkis ja kaalus õpetas mulle veidi Itaalia keelt: uno, due, tre, quattro, cinque, sei, sette. Otsisin poe riiulite vahelt üles Lucy et tema ees värskelt õpitud sõnadega uhkeldada: “uno due tre quattro cinque sei sette” …mille peale tema jätkas: “otto, nove, dieci, undici, dodici, tredici, quattordici, quindici…”. No vot säh sulle uhkeldamist siis :D Tehti ära!
+Tagasiteel sattusime ühte rikkaliku valikuga pisemasse poodi, kus olid sõbralikud töötajad. Poiss, kes meile puubilju kotti pakkis ja kaalus õpetas mulle veidi Itaalia keelt: uno, due, tre, quattro, cinque, sei, sette. Otsisin poe riiulite vahelt üles L. et tema ees värskelt õpitud sõnadega uhkeldada: “uno due tre quattro cinque sei sette” …mille peale tema jätkas: “otto, nove, dieci, undici, dodici, tredici, quattordici, quindici…”. No vot säh sulle uhkeldamist siis :D Tehti ära!
 
 [![](/images/img_5950.jpeg?w=1024)](/images/img_5950.jpeg)
 
@@ -98,7 +98,7 @@ Mõnus pood laia valikuga paljudes värvides.
 
 Sõitsime samasse kohta, Zingarosse. Kõndisime pühapäeval külastatud Cala Capreriast mööda. Külastasime Manna muuseumi. Nende keeles on Manna mingisugune magus aine. Nad kutsuvad seda Sitsiilia suhkruks. Seda saadakse hariliku saare (Fraxinus excelsior) jm saareliste perekonda kuuluvate puude koorest.
 
-[Calla della Disa lahes](https://goo.gl/maps/DNkpr3yDombL7QL19) Lucy päevitas ja joonistas, mina snorgeldasin. Avastasin laheda veealuse koopa.
+[Calla della Disa lahes](https://goo.gl/maps/DNkpr3yDombL7QL19) L. päevitas ja joonistas, mina snorgeldasin. Avastasin laheda veealuse koopa.
 
 [![](/images/screenshot-2022-09-17-at-13.53.19.png?w=1024)](/images/screenshot-2022-09-17-at-13.53.19.png)
 
@@ -110,7 +110,7 @@ https://youtu.be/TK3L61fLHpQ
 
 https://youtu.be/Oc3Wsm\_NbhU
 
-Matkasime edasi ja vahetult enne [Cala dell'Uzzot](https://goo.gl/maps/MAcpuxkk471ij9Ti7) keerasime mäest üles. Kui eelnevalt olime matkanud üsna merepinna lähedal - u 80m merepinnnast, siis nüüd mööda järsku tõusu kõndisime üsna lühikese ajaga 260m kõrgusele. Vahepeal läks tempo liiga kiireks, seega pidime pause tegema. Jõudnud järsu tõusu lõppu, algas tagasitee, mille jooksul tõusime üle 400m merepinnast. Matka pikkuseks kujunes veidi üle 11km ja me kogusime üle 500 tõusumeetri. Tagasi jõudsime väga täpselt peale päikeseloojangut, kui hakkas hämarduma. Lucy oli väga rahul ja rõõmus - ta ei olnud sellist mägimatka mere ääres enne kogenud.
+Matkasime edasi ja vahetult enne [Cala dell'Uzzot](https://goo.gl/maps/MAcpuxkk471ij9Ti7) keerasime mäest üles. Kui eelnevalt olime matkanud üsna merepinna lähedal - u 80m merepinnnast, siis nüüd mööda järsku tõusu kõndisime üsna lühikese ajaga 260m kõrgusele. Vahepeal läks tempo liiga kiireks, seega pidime pause tegema. Jõudnud järsu tõusu lõppu, algas tagasitee, mille jooksul tõusime üle 400m merepinnast. Matka pikkuseks kujunes veidi üle 11km ja me kogusime üle 500 tõusumeetri. Tagasi jõudsime väga täpselt peale päikeseloojangut, kui hakkas hämarduma. L. oli väga rahul ja rõõmus - ta ei olnud sellist mägimatka mere ääres enne kogenud.
 
 https://youtu.be/nhLQrnjlZm8
 
@@ -170,7 +170,7 @@ https://youtu.be/GLGNJuSKXx0
 
 https://youtu.be/jGziPGqe2-k
 
-Samal ajal filmis Lucy rannal ühte maailmameistrit hüppeid tegemas.
+Samal ajal filmis L. rannal ühte maailmameistrit hüppeid tegemas.
 
 [![](/images/307095239_174816778406155_1918989207655714380_n.jpeg?w=1024)](/images/307095239_174816778406155_1918989207655714380_n.jpeg)
 

@@ -3,7 +3,7 @@ title: "\"Aga kus sõrmus on?\""
 date: "2022-11-08"
 ---
 
-Sellised olid Lucy sõnad eile rannas, kui olin laskunud ühele põlvele ja lausunud: “Людмила Ивановна Георгиева, выидешь за мне замуж?” 
+Sellised olid L. sõnad eile rannas, kui olin laskunud ühele põlvele ja lausunud: “Л. И. Г., выидешь за мне замуж?” 
 
 Nimelt oli mustas karbikeses, mille olin avanud ja temale esitlenud sees kõrvarõngad ja kaelaekee, mitte sõrmus. 
 

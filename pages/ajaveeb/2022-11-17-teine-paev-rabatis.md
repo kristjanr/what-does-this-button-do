@@ -65,4 +65,4 @@ Hiljem käisime ühes pargis, kust meid välja aeti. Lõpuks jõudsime jõe kald
 
 [![](/images/img_7090.jpeg?w=1024)](/images/img_7090.jpeg)
 
-See tugevalt valgustatud ehitis seal taamal, millest Lucy pilti teeb on Zaha Hadidi disainitud Rabat Grand Theatre
+See tugevalt valgustatud ehitis seal taamal, millest L. pilti teeb on Zaha Hadidi disainitud Rabat Grand Theatre

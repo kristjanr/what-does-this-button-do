@@ -5,7 +5,7 @@ categories:
   - "itaalia"
 ---
 
-Lucy on süsteemne ja tubli! Ta tegi juba laupäeva hommikul nimekirja asjadest, mida tuleb enne reisi teha ja mida kaasa võtta. Sel ajal kui mina Tallinna Maratoni rattavõistlusel sõitsin, käis tema poodlemas ja leidis omale sobivad matkasaapad jm vajaliku. Õhtul võistluselt koju jõudes panin ka oma koti kokku.
+L. on süsteemne ja tubli! Ta tegi juba laupäeva hommikul nimekirja asjadest, mida tuleb enne reisi teha ja mida kaasa võtta. Sel ajal kui mina Tallinna Maratoni rattavõistlusel sõitsin, käis tema poodlemas ja leidis omale sobivad matkasaapad jm vajaliku. Õhtul võistluselt koju jõudes panin ka oma koti kokku.
 
 Pühapäeva hommikul 4. septembril läksime Tallinna lennujaama, et Sitsiiliasse, Palermosse lennata.
 
@@ -37,7 +37,7 @@ Rongisõit lennujaamast Carini peatusse võttis 10 minutit. Sealt jalutasime mö
 
 Jalakäijale ruumi ei ole...
 
-Keskväljakul on Neitsi Maarja Taevasseminemise Peakirik. Meie toast avaneb suurepärane vaade koos rõduga sellele väljakule. Õhtul oli peale saabumist see meeldiv üllatus. Lucy oli meile väga hea öömaja leidnud!
+Keskväljakul on Neitsi Maarja Taevasseminemise Peakirik. Meie toast avaneb suurepärane vaade koos rõduga sellele väljakule. Õhtul oli peale saabumist see meeldiv üllatus. L. oli meile väga hea öömaja leidnud!
 
 [![](/images/img_5387.jpeg?w=768)](/images/img_5387.jpeg)
 

@@ -16,13 +16,13 @@ This secular practice, which still continues in some communities, is carried out
 
 ## Matk
 ### Tõus
-Trilho dos Currais tõuseb mäkke Geresi linnakese südamest, selle peatänavalt. Nagu igal hommikul, jääme me matkaks pakkimisega ajahätta ja lapse esimene päevauinak tuleb peale. Lahendasime selliselt, et mina uinutasin lapse kärus magama ja samaaegselt jalutasin matka alguspunkti, mis on 15 minutit jalutada. Lucy lõpetas pakkimise ja tuli autoga järgi. Autosse saime jätta käru. Kuna plaan oli sama teed tagasi tulla, oli nüüd auto kenasti võimalikult lähedal ootamas. 
+Trilho dos Currais tõuseb mäkke Geresi linnakese südamest, selle peatänavalt. Nagu igal hommikul, jääme me matkaks pakkimisega ajahätta ja lapse esimene päevauinak tuleb peale. Lahendasime selliselt, et mina uinutasin lapse kärus magama ja samaaegselt jalutasin matka alguspunkti, mis on 15 minutit jalutada. L. lõpetas pakkimise ja tuli autoga järgi. Autosse saime jätta käru. Kuna plaan oli sama teed tagasi tulla, oli nüüd auto kenasti võimalikult lähedal ootamas. 
 
-Laps ärkas seal mürarikkal tänaval üles ja see meile tegelikult sobiski. Panime ta mulle selga kandekotti ja hakkasime astuma. Algus tegi meid murelikuks - väga järsk tee. Kas Lucy peab ikka vastu? Ja kuidas me mööda sedasama teed pärast alla saame?! Mis siis kui vihma hakkab sadama ja järsk pinnas läheb libedaks? Me ei plaaninud ju ringikujulist matkarada läbida vaid kõndida Pedra Bela vaateplatvormini, teha seal lõuna ning sama teed pidi tagasi tulla. Seetõttu pöörasime osadel järsematel ja mudastel või lahtiste kivikestega rajaosadel ringi ning tunnetasime, kuidas oleks sedasama teed pidi alla kõndida. Nii olime kindlad, et ei võta liigset riski ja et saame mööda sama rada (olgugi siis, et sama aeglaselt või aeglasemaltki kui ülesse minnes) ohutult alla.
+Laps ärkas seal mürarikkal tänaval üles ja see meile tegelikult sobiski. Panime ta mulle selga kandekotti ja hakkasime astuma. Algus tegi meid murelikuks - väga järsk tee. Kas L. peab ikka vastu? Ja kuidas me mööda sedasama teed pärast alla saame?! Mis siis kui vihma hakkab sadama ja järsk pinnas läheb libedaks? Me ei plaaninud ju ringikujulist matkarada läbida vaid kõndida Pedra Bela vaateplatvormini, teha seal lõuna ning sama teed pidi tagasi tulla. Seetõttu pöörasime osadel järsematel ja mudastel või lahtiste kivikestega rajaosadel ringi ning tunnetasime, kuidas oleks sedasama teed pidi alla kõndida. Nii olime kindlad, et ei võta liigset riski ja et saame mööda sama rada (olgugi siis, et sama aeglaselt või aeglasemaltki kui ülesse minnes) ohutult alla.
 
 Mägedes matkates on üles minna mõnusam, kui alla tulla. Noorena, kahekümnendates oli tegelikult ka allaminek mõnus. 2014. aastal Rios elades Pedra da Gavea kaljult tagasi allamäge suisa jooksin, kriips kõrvuni. Tee sinna on tõesti järsk: ca 2 km ja 700 tõusumeetrit e keskmine tõus 32%. Hiljem Gruusia matkaks ostsin juba matkakepid, et laskumistel oma põlvi säästa ja osa raskust kätele jaotada. Tenerifelgi valisime matkaraja läbimiseks justnimelt tõusva suuna - algus rannikul, lõpp kõrgel Anaga metsas . Ei saanud aru neist inimestest, kes meile seal matkarajal allamäge kõndides vastu tulid. Ei saa aru ka neist, kes sõidavad mäetõstukiga tippu, et siis allamäge matkata. Milleks leppida vähema trenniga ja riskida põlvevigastuse või libastumisega?
 
-Meil kadus hirm eesootava allamineku ees, sest loodus oli nõnda kaunis. Lucy väga nautis seda lopsakat loodust ja metsa, mille keskel rändasime. Mina tassisin Kassut seljas kandekotis ja Lucy muudkui pildistas ja filmis. Mulle selline korraldus täitsa sobib - jube hea, kui seiklusest keegi mälestuseks fotosid võtab. Ise saan olla hetkes.
+Meil kadus hirm eesootava allamineku ees, sest loodus oli nõnda kaunis. L. väga nautis seda lopsakat loodust ja metsa, mille keskel rändasime. Mina tassisin Kassut seljas kandekotis ja L. muudkui pildistas ja filmis. Mulle selline korraldus täitsa sobib - jube hea, kui seiklusest keegi mälestuseks fotosid võtab. Ise saan olla hetkes.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIssNv5QFX0?si=DWd3d8LuMmbT7UBN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -68,7 +68,7 @@ Kuid hiljem tuli seegi. Õnneks oli loodus jällegi piisavalt kaunis ja kuigi n�
 
 ![Suur kalli!](https://ik.imagekit.io/p62hs5w4p/reisiblogi/Portugal/trilho-dos-currais-matk/IMG_0278.jpeg?updatedAt=1734988455455)
 
-Jõudsime õnnelikult meie külakesse tagasi palju lähemal meie öömajale, kui matka alguspunkt. Lucy võttis Kassu selga ja läks koju, mina jalutasin auto järele. Kordaläinud päev!
+Jõudsime õnnelikult meie külakesse tagasi palju lähemal meie öömajale, kui matka alguspunkt. L. võttis Kassu selga ja läks koju, mina jalutasin auto järele. Kordaläinud päev!
 
 ### Läbitud teekond kaardil
 
